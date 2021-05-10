@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dayz-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/dayz-app/static/js/main.b44aef93.chunk.js",
+    "main.js.map": "/dayz-app/static/js/main.b44aef93.chunk.js.map",
+    "runtime-main.js": "/dayz-app/static/js/runtime-main.0b5481aa.js",
+    "runtime-main.js.map": "/dayz-app/static/js/runtime-main.0b5481aa.js.map",
+    "static/js/2.31d09aa1.chunk.js": "/dayz-app/static/js/2.31d09aa1.chunk.js",
+    "static/js/2.31d09aa1.chunk.js.map": "/dayz-app/static/js/2.31d09aa1.chunk.js.map",
+    "static/js/3.c05e4dee.chunk.js": "/dayz-app/static/js/3.c05e4dee.chunk.js",
+    "static/js/3.c05e4dee.chunk.js.map": "/dayz-app/static/js/3.c05e4dee.chunk.js.map",
+    "index.html": "/dayz-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/dayz-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.31d09aa1.chunk.js.LICENSE.txt": "/dayz-app/static/js/2.31d09aa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b5481aa.js",
+    "static/js/2.31d09aa1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b44aef93.chunk.js"
+  ]
+}
